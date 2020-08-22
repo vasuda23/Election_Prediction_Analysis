@@ -1,0 +1,154 @@
+state,count,unique,top,freq,year
+Alabama,67,2,republican,52,2012
+Alaska,40,2,republican,27,2012
+Arizona,15,2,republican,11,2012
+Arkansas,75,2,republican,66,2012
+California,58,2,democrat,31,2012
+Colorado,64,2,republican,37,2012
+Connecticut,8,2,democrat,7,2012
+Delaware,3,2,democrat,2,2012
+District of Columbia,1,1,democrat,1,2012
+Florida,67,2,republican,54,2012
+Georgia,159,2,republican,125,2012
+Hawaii,4,1,democrat,4,2012
+Idaho,44,2,republican,42,2012
+Illinois,102,2,republican,79,2012
+Indiana,92,2,republican,83,2012
+Iowa,99,2,republican,61,2012
+Kansas,105,2,republican,103,2012
+Kentucky,120,2,republican,116,2012
+Louisiana,64,2,republican,54,2012
+Maine,16,2,democrat,15,2012
+Maryland,24,2,republican,17,2012
+Massachusetts,14,1,democrat,14,2012
+Michigan,83,2,republican,63,2012
+Minnesota,87,2,republican,59,2012
+Mississippi,82,2,republican,51,2012
+Missouri,116,2,republican,112,2012
+Montana,56,2,republican,48,2012
+Nebraska,93,2,republican,92,2012
+Nevada,17,2,republican,15,2012
+New Hampshire,10,2,democrat,7,2012
+New Jersey,21,2,democrat,14,2012
+New Mexico,33,2,democrat,17,2012
+New York,62,2,democrat,39,2012
+North Carolina,100,2,republican,70,2012
+North Dakota,53,2,republican,47,2012
+Ohio,88,2,republican,71,2012
+Oklahoma,77,1,republican,77,2012
+Oregon,36,2,republican,26,2012
+Pennsylvania,67,2,republican,54,2012
+Rhode Island,5,1,democrat,5,2012
+South Carolina,46,2,republican,25,2012
+South Dakota,66,2,republican,56,2012
+Tennessee,95,2,republican,91,2012
+Texas,254,2,republican,228,2012
+Utah,29,1,republican,29,2012
+Vermont,14,1,democrat,14,2012
+Virginia,134,2,republican,88,2012
+Washington,39,2,republican,23,2012
+West Virginia,55,1,republican,55,2012
+Wisconsin,72,2,republican,37,2012
+Wyoming,23,2,republican,22,2012
+Alabama,67,2,republican,54,2016
+Alaska,41,2,republican,27,2016
+Arizona,15,2,republican,11,2016
+Arkansas,75,2,republican,67,2016
+California,58,2,democrat,33,2016
+Colorado,64,2,republican,42,2016
+Connecticut,8,2,democrat,6,2016
+Delaware,3,2,republican,2,2016
+District of Columbia,1,1,democrat,1,2016
+Florida,67,2,republican,58,2016
+Georgia,159,2,republican,128,2016
+Hawaii,4,1,democrat,4,2016
+Idaho,44,2,republican,42,2016
+Illinois,102,2,republican,90,2016
+Indiana,92,2,republican,88,2016
+Iowa,99,2,republican,93,2016
+Kansas,105,2,republican,103,2016
+Kentucky,120,2,republican,118,2016
+Louisiana,64,2,republican,54,2016
+Maine,16,2,republican,9,2016
+Maryland,24,2,republican,17,2016
+Massachusetts,14,1,democrat,14,2016
+Michigan,83,2,republican,75,2016
+Minnesota,87,2,republican,78,2016
+Mississippi,82,2,republican,55,2016
+Missouri,116,2,republican,112,2016
+Montana,56,2,republican,50,2016
+Nebraska,93,2,republican,91,2016
+Nevada,17,2,republican,15,2016
+New Hampshire,10,2,republican,6,2016
+New Jersey,21,2,democrat,12,2016
+New Mexico,33,2,republican,19,2016
+New York,62,2,republican,45,2016
+North Carolina,100,2,republican,76,2016
+North Dakota,53,2,republican,51,2016
+Ohio,88,2,republican,80,2016
+Oklahoma,77,1,republican,77,2016
+Oregon,36,2,republican,28,2016
+Pennsylvania,67,2,republican,56,2016
+Rhode Island,5,2,democrat,4,2016
+South Carolina,46,2,republican,31,2016
+South Dakota,66,2,republican,61,2016
+Tennessee,95,2,republican,92,2016
+Texas,254,2,republican,227,2016
+Utah,29,2,republican,27,2016
+Vermont,14,2,democrat,13,2016
+Virginia,133,2,republican,93,2016
+Washington,39,2,republican,27,2016
+West Virginia,55,1,republican,55,2016
+Wisconsin,72,2,republican,60,2016
+Wyoming,23,2,republican,22,2016
+Alabama,67,2,republican,54,2008
+Alaska,40,2,republican,32,2008
+Arizona,15,2,republican,11,2008
+Arkansas,75,2,republican,66,2008
+California,58,2,democrat,34,2008
+Colorado,64,2,republican,38,2008
+Connecticut,8,1,democrat,8,2008
+Delaware,3,2,democrat,2,2008
+District of Columbia,1,1,democrat,1,2008
+Florida,67,2,republican,52,2008
+Georgia,159,2,republican,125,2008
+Hawaii,4,1,democrat,4,2008
+Idaho,44,2,republican,41,2008
+Illinois,102,2,republican,56,2008
+Indiana,92,2,republican,77,2008
+Iowa,99,2,democrat,53,2008
+Kansas,105,2,republican,102,2008
+Kentucky,120,2,republican,112,2008
+Louisiana,64,2,republican,54,2008
+Maine,16,2,democrat,15,2008
+Maryland,24,2,republican,17,2008
+Massachusetts,14,1,democrat,14,2008
+Michigan,83,2,democrat,46,2008
+Minnesota,87,2,republican,45,2008
+Mississippi,82,2,republican,53,2008
+Missouri,116,2,republican,107,2008
+Montana,56,2,republican,43,2008
+Nebraska,93,2,republican,89,2008
+Nevada,17,2,republican,14,2008
+New Hampshire,10,1,democrat,10,2008
+New Jersey,21,2,democrat,14,2008
+New Mexico,33,2,democrat,18,2008
+New York,62,2,democrat,36,2008
+North Carolina,100,2,republican,67,2008
+North Dakota,53,2,republican,40,2008
+Ohio,88,2,republican,66,2008
+Oklahoma,77,1,republican,77,2008
+Oregon,36,2,republican,23,2008
+Pennsylvania,67,2,republican,49,2008
+Rhode Island,5,1,democrat,5,2008
+South Carolina,46,2,republican,26,2008
+South Dakota,66,2,republican,50,2008
+Tennessee,95,2,republican,89,2008
+Texas,254,2,republican,226,2008
+Utah,29,2,republican,26,2008
+Vermont,14,1,democrat,14,2008
+Virginia,134,2,republican,86,2008
+Washington,39,2,democrat,20,2008
+West Virginia,55,2,republican,48,2008
+Wisconsin,72,2,democrat,59,2008
+Wyoming,23,2,republican,21,2008

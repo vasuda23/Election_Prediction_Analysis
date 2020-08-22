@@ -1,0 +1,436 @@
+state_district,year,state,district,candidatevotes,candidate,party,totalvotes,state_fips,state_po
+"AK, 0",2014,Alaska,0,142572,Don Young,republican,279741,2,AK
+"AL, 1",2014,Alabama,1,103758,Bradley Byrne,republican,152234,1,AL
+"AL, 2",2014,Alabama,2,113103,Martha Roby,republican,167952,1,AL
+"AL, 3",2014,Alabama,3,103558,Mike Rogers,republican,156620,1,AL
+"AL, 4",2014,Alabama,4,132831,Robert B. Aderholt,republican,134752,1,AL
+"AL, 5",2014,Alabama,5,115338,Mo Brooks,republican,154974,1,AL
+"AL, 6",2014,Alabama,6,135945,Gary Palmer,republican,178449,1,AL
+"AL, 7",2014,Alabama,7,133687,Terri A. Sewell,democrat,135899,1,AL
+"AR, 1",2014,Arkansas,1,124139,"Eric A. """"Rick"""" Crawford",republican,196256,5,AR
+"AR, 2",2014,Arkansas,2,123073,French Hill,republican,237330,5,AR
+"AR, 3",2014,Arkansas,3,151630,Steve Womack,republican,190935,5,AR
+"AR, 4",2014,Arkansas,4,110789,Bruce Westerman,republican,206131,5,AR
+"AZ, 1",2014,Arizona,1,97391,Ann Kirkpatrick,democrat,185114,4,AZ
+"AZ, 2",2014,Arizona,2,109704,Martha McSally,republican,219351,4,AZ
+"AZ, 3",2014,Arizona,3,58192,Ra_l M. Grijalva,democrat,104428,4,AZ
+"AZ, 4",2014,Arizona,4,122560,Paul A. Gosar,republican,175179,4,AZ
+"AZ, 5",2014,Arizona,5,124867,Matt Salmon,republican,179463,4,AZ
+"AZ, 6",2014,Arizona,6,129578,David Schweikert,republican,199776,4,AZ
+"AZ, 7",2014,Arizona,7,54235,Ruben Gallego,democrat,72454,4,AZ
+"AZ, 8",2014,Arizona,8,128710,Trent Franks,republican,169776,4,AZ
+"AZ, 9",2014,Arizona,9,88609,Kyrsten Sinema,democrat,162062,4,AZ
+"CA, 1",2014,California,1,132052,Doug LaMalfa,republican,216372,6,CA
+"CA, 10",2014,California,10,70582,Jeff Denhem,republican,125705,6,CA
+"CA, 11",2014,California,11,117502,Mark DeSaulnier,democrat,174662,6,CA
+"CA, 12",2014,California,12,160067,Nancy Pelosi,democrat,192264,6,CA
+"CA, 13",2014,California,13,168491,Barbara Lee,democrat,190431,6,CA
+"CA, 14",2014,California,14,114389,Jackie Speier,democrat,149146,6,CA
+"CA, 15",2014,California,15,99756,Eric Swalwell,democrat,142906,6,CA
+"CA, 16",2014,California,16,46277,Jim Costa,democrat,91220,6,CA
+"CA, 17",2014,California,17,69561,Michael M. Honda,democrat,134408,6,CA
+"CA, 18",2014,California,18,133060,Anna G. Eshoo,democrat,196386,6,CA
+"CA, 19",2014,California,19,85888,Zoe Lofgren,democrat,127788,6,CA
+"CA, 2",2014,California,2,163124,Jared Huffman,democrat,217524,6,CA
+"CA, 20",2014,California,20,106034,Sam Farr,democrat,141044,6,CA
+"CA, 21",2014,California,21,45907,David G. Valadao,republican,79377,6,CA
+"CA, 22",2014,California,22,96053,Devin Nunes,republican,133342,6,CA
+"CA, 23",2014,California,23,100317,Kevin McCarthy,republican,134043,6,CA
+"CA, 24",2014,California,24,103228,Lois Capps,democrat,198794,6,CA
+"CA, 25",2014,California,25,60847,Steve Knight,republican,114072,6,CA
+"CA, 26",2014,California,26,87176,Julia Brownley,democrat,169829,6,CA
+"CA, 27",2014,California,27,75728,Judy Chu,democrat,127580,6,CA
+"CA, 28",2014,California,28,91996,Adam B. Schiff,democrat,120264,6,CA
+"CA, 29",2014,California,29,50096,Tony C_rdenas,democrat,67141,6,CA
+"CA, 3",2014,California,3,79224,John Garamendi,democrat,150260,6,CA
+"CA, 30",2014,California,30,86568,Brad Sherman,democrat,131883,6,CA
+"CA, 31",2014,California,31,51622,Pete Aguilar,democrat,99784,6,CA
+"CA, 32",2014,California,32,50353,Grace F. Napolitano,democrat,84406,6,CA
+"CA, 33",2014,California,33,108331,Ted Lieu,democrat,183031,6,CA
+"CA, 34",2014,California,34,44697,Xavier Becerra,democrat,61621,6,CA
+"CA, 35",2014,California,35,39502,Norma J. Torres,democrat,62255,6,CA
+"CA, 36",2014,California,36,72682,Raul Ruiz,democrat,134139,6,CA
+"CA, 37",2014,California,37,96787,Karen Bass,democrat,114838,6,CA
+"CA, 38",2014,California,38,58192,Linda T. S_nchez,democrat,98480,6,CA
+"CA, 39",2014,California,39,91319,Edward R. Royce,republican,133225,6,CA
+"CA, 4",2014,California,4,126784,Tom McClintock,republican,211134,6,CA
+"CA, 40",2014,California,40,30208,Lucille Roybal-Allard,democrat,49379,6,CA
+"CA, 41",2014,California,41,46948,Mark Takano,democrat,82884,6,CA
+"CA, 42",2014,California,42,74540,Ken Calvert,republican,113390,6,CA
+"CA, 43",2014,California,43,69681,Maxine Waters,democrat,98202,6,CA
+"CA, 44",2014,California,44,59670,Janice Hahn,democrat,68862,6,CA
+"CA, 45",2014,California,45,106083,Mimi Walters,republican,162902,6,CA
+"CA, 46",2014,California,46,49738,Loretta Sanchez,democrat,83315,6,CA
+"CA, 47",2014,California,47,69091,Alan S. Lowenthal,democrat,123400,6,CA
+"CA, 48",2014,California,48,112082,Dana Rohracher,republican,174795,6,CA
+"CA, 49",2014,California,49,98161,Darrell E. Issa,republican,163142,6,CA
+"CA, 5",2014,California,5,129613,Mike Thompson,democrat,171148,6,CA
+"CA, 50",2014,California,50,111997,Duncan Hunter,republican,157299,6,CA
+"CA, 51",2014,California,51,56373,Juan Vargas,democrat,81950,6,CA
+"CA, 52",2014,California,52,98826,Scott H. Peters,democrat,191572,6,CA
+"CA, 53",2014,California,53,87104,Susan A. Davis,democrat,148044,6,CA
+"CA, 6",2014,California,6,97008,Doris O. Matsui,democrat,133456,6,CA
+"CA, 7",2014,California,7,92521,Ami Bera,democrat,183587,6,CA
+"CA, 8",2014,California,8,77480,Paul Cook,republican,114536,6,CA
+"CA, 9",2014,California,9,63475,Jerry McNerney,democrat,121204,6,CA
+"CO, 1",2014,Colorado,1,183281,Diana DeGette,democrat,278494,8,CO
+"CO, 2",2014,Colorado,2,196300,Jared Polis,democrat,345945,8,CO
+"CO, 3",2014,Colorado,3,163011,Scott R. Tipton,republican,281141,8,CO
+"CO, 4",2014,Colorado,4,185292,Ken Buck,republican,286507,8,CO
+"CO, 5",2014,Colorado,5,157182,Doug Lamborn,republican,262855,8,CO
+"CO, 6",2014,Colorado,6,143467,Mike Coffman,republican,276440,8,CO
+"CO, 7",2014,Colorado,7,148225,Ed Perlmutter,democrat,269143,8,CO
+"CT, 1",2014,Connecticut,1,127430,John B. Larson,democrat,217881,9,CT
+"CT, 2",2014,Connecticut,2,131294,Joe Courtney,democrat,227936,9,CT
+"CT, 3",2014,Connecticut,3,130009,Rosa L. DeLauro,democrat,209939,9,CT
+"CT, 4",2014,Connecticut,4,101401,James A. Himes,democrat,198800,9,CT
+"CT, 5",2014,Connecticut,5,106256,Elizabeth H. Esty,democrat,213301,9,CT
+"DE, 0",2014,Delaware,0,137251,"John C. Carney, Jr.",democrat,231617,10,DE
+"FL, 1",2014,Florida,1,165086,Jeff Miller,republican,235343,12,FL
+"FL, 10",2014,Florida,10,143128,Daniel Webster,republican,232574,12,FL
+"FL, 11",2014,Florida,11,181508,Richard B. Nugent,republican,272294,12,FL
+"FL, 12",2014,Florida,12,1,Gus M. Bilirakis,republican,1,12,FL
+"FL, 13",2014,Florida,13,168172,David W. Jolly,republican,223576,12,FL
+"FL, 14",2014,Florida,14,1,Kathy Castor,democrat,1,12,FL
+"FL, 15",2014,Florida,15,128750,Dennis A. Ross,republican,213582,12,FL
+"FL, 16",2014,Florida,16,169126,Vern Buchanan,republican,274829,12,FL
+"FL, 17",2014,Florida,17,141493,Thomas J. Rooney,republican,223756,12,FL
+"FL, 18",2014,Florida,18,151478,Patrick Murphy,democrat,253374,12,FL
+"FL, 19",2014,Florida,19,159354,Curt Clawson,republican,246861,12,FL
+"FL, 2",2014,Florida,2,126096,Gwen Graham,democrat,249780,12,FL
+"FL, 20",2014,Florida,20,128498,Alcee L. Hastings,democrat,157466,12,FL
+"FL, 21",2014,Florida,21,153395,Theodore E. Deutch,democrat,153970,12,FL
+"FL, 22",2014,Florida,22,125404,Lois Frankel,democrat,216096,12,FL
+"FL, 23",2014,Florida,23,103269,Debbie Wasserman Schultz,democrat,164788,12,FL
+"FL, 24",2014,Florida,24,129192,Frederica S. Wilson,democrat,149918,12,FL
+"FL, 25",2014,Florida,25,1,Mario Diaz-Balart,republican,1,12,FL
+"FL, 26",2014,Florida,26,83031,Carlos Curbelo,republican,161337,12,FL
+"FL, 27",2014,Florida,27,1,Ileana Ros-Lehtinen,republican,1,12,FL
+"FL, 3",2014,Florida,3,148691,Ted S. Yoho,republican,228809,12,FL
+"FL, 4",2014,Florida,4,177887,Ander Crenshaw,republican,227253,12,FL
+"FL, 5",2014,Florida,5,112340,Corrine Brown,democrat,171577,12,FL
+"FL, 6",2014,Florida,6,166254,Ron DeSantis,republican,265817,12,FL
+"FL, 7",2014,Florida,7,144474,John L. Mica,republican,227164,12,FL
+"FL, 8",2014,Florida,8,180728,Bill Posey,republican,274513,12,FL
+"FL, 9",2014,Florida,9,93850,Alan Grayson,democrat,173878,12,FL
+"GA, 1",2014,Georgia,1,95337,"E. L. """"Buddy"""" Carter",republican,156512,13,GA
+"GA, 10",2014,Georgia,10,130703,Jody B. Hice,republican,196480,13,GA
+"GA, 11",2014,Georgia,11,161532,Barry D. Loudermilk,republican,161532,13,GA
+"GA, 12",2014,Georgia,12,91336,"R. W. """"Rick"""" Allen",republican,166814,13,GA
+"GA, 13",2014,Georgia,13,159445,David Scott,democrat,159445,13,GA
+"GA, 14",2014,Georgia,14,118782,Tom Graves,republican,118782,13,GA
+"GA, 2",2014,Georgia,2,96363,Sanford D. Bishop Jr.,democrat,162900,13,GA
+"GA, 3",2014,Georgia,3,156277,Lynn A. Westmoreland,republican,156277,13,GA
+"GA, 4",2014,Georgia,4,161211,"Henry C. """"Hank"""" Johnson Jr.",democrat,161320,13,GA
+"GA, 5",2014,Georgia,5,170326,John Lewis,democrat,170326,13,GA
+"GA, 6",2014,Georgia,6,139018,Tom Price,republican,210504,13,GA
+"GA, 7",2014,Georgia,7,113557,Rob Woodall,republican,173669,13,GA
+"GA, 8",2014,Georgia,8,129938,Austin Scott,republican,130057,13,GA
+"GA, 9",2014,Georgia,9,146059,Doug Collins,republican,181047,13,GA
+"HI, 1",2014,Hawaii,1,93390,Mark Takai,democrat,182268,15,HI
+"HI, 2",2014,Hawaii,2,142010,Tulsi Gabbard,democrat,187435,15,HI
+"IA, 1",2014,Iowa,1,147762,Rod Blum,republican,289306,19,IA
+"IA, 2",2014,Iowa,2,143431,David Loebsack,democrat,273329,19,IA
+"IA, 3",2014,Iowa,3,148814,David Young,republican,282066,19,IA
+"IA, 4",2014,Iowa,4,169834,Steve King,republican,275633,19,IA
+"ID, 1",2014,Idaho,1,143580,Ra_l R. Labrador,republican,220864,16,ID
+"ID, 2",2014,Idaho,2,131492,Michael K. Simpson,republican,214293,16,ID
+"IL, 1",2014,Illinois,1,162268,Bobby L. Rush,democrat,222017,17,IL
+"IL, 10",2014,Illinois,10,95992,Robert Dold,republican,187128,17,IL
+"IL, 11",2014,Illinois,11,93436,Bill Foster,democrat,174772,17,IL
+"IL, 12",2014,Illinois,12,110038,Mike Bost,republican,209738,17,IL
+"IL, 13",2014,Illinois,13,123337,Rodney Davis,republican,210272,17,IL
+"IL, 14",2014,Illinois,14,145369,Randy Hultgren,republican,222230,17,IL
+"IL, 15",2014,Illinois,15,166274,John Shimkus,republican,221926,17,IL
+"IL, 16",2014,Illinois,16,153388,Adam Kinzinger,republican,217198,17,IL
+"IL, 17",2014,Illinois,17,110560,Cheri Bustos,democrat,199361,17,IL
+"IL, 18",2014,Illinois,18,184363,Aaron Schock,republican,246740,17,IL
+"IL, 2",2014,Illinois,2,160337,Robin L. Kelly,democrat,204266,17,IL
+"IL, 3",2014,Illinois,3,116764,Daniel Lipinski,democrat,180855,17,IL
+"IL, 4",2014,Illinois,4,79666,Luis V. Guti_rrez,democrat,101944,17,IL
+"IL, 5",2014,Illinois,5,116364,Mike Quigley,democrat,184019,17,IL
+"IL, 6",2014,Illinois,6,160287,Peter J. Roskam,republican,238752,17,IL
+"IL, 7",2014,Illinois,7,155110,Danny K. Davis,democrat,182278,17,IL
+"IL, 8",2014,Illinois,8,84178,Tammy Duckworth,democrat,151056,17,IL
+"IL, 9",2014,Illinois,9,141000,Janice D. Schakowsky,democrat,213450,17,IL
+"IN, 1",2014,Indiana,1,86579,Peter J. Visclosky,democrat,142293,18,IN
+"IN, 2",2014,Indiana,2,85583,Jackie Walorski,republican,145200,18,IN
+"IN, 3",2014,Indiana,3,97892,Marlin A. Stutzman,republican,148793,18,IN
+"IN, 4",2014,Indiana,4,94998,Todd Rokita,republican,142054,18,IN
+"IN, 5",2014,Indiana,5,105277,Susan W. Brooks,republican,161440,18,IN
+"IN, 6",2014,Indiana,6,102187,Luke Messer,republican,155071,18,IN
+"IN, 7",2014,Indiana,7,61443,Andr_ Carson,democrat,112261,18,IN
+"IN, 8",2014,Indiana,8,103344,Larry Bucshon,republican,171315,18,IN
+"IN, 9",2014,Indiana,9,101594,Todd C. Young,republican,163387,18,IN
+"KS, 1",2014,Kansas,1,138764,Tim Huelskamp,republican,204161,20,KS
+"KS, 2",2014,Kansas,2,128742,Lynn Jenkins,republican,225686,20,KS
+"KS, 3",2014,Kansas,3,134493,Kevin Yoder,republican,224077,20,KS
+"KS, 4",2014,Kansas,4,138757,Mike Pompeo,republican,208153,20,KS
+"KY, 1",2014,Kentucky,1,173022,Ed Whitfield,republican,236618,21,KY
+"KY, 2",2014,Kentucky,2,156936,Brett Guthrie,republican,226834,21,KY
+"KY, 3",2014,Kentucky,3,157056,John A. Yarmuth,democrat,247355,21,KY
+"KY, 4",2014,Kentucky,4,150464,Thomas Massie,republican,222158,21,KY
+"KY, 5",2014,Kentucky,5,171350,Harold Rogers,republican,218967,21,KY
+"KY, 6",2014,Kentucky,6,147404,Andy Barr,republican,245694,21,KY
+"LA, 1",2014,Louisiana,1,189250,Steve Scalise,republican,244004,22,LA
+"LA, 2",2014,Louisiana,2,152201,Cedric L. Richmond,democrat,221570,22,LA
+"LA, 3",2014,Louisiana,3,185867,Charles W. Boustany Jr.,republican,236268,22,LA
+"LA, 4",2014,Louisiana,4,152683,John Fleming,republican,207919,22,LA
+"LA, 5",2014,Louisiana,5,134616,Ralph Lee Abraham,republican,326073,22,LA
+"LA, 6",2014,Louisiana,6,139209,Garret Graves,republican,332888,22,LA
+"MA, 1",2014,Massachusetts,1,167612,Richard E. Neal,democrat,227075,25,MA
+"MA, 2",2014,Massachusetts,2,169640,James P. McGovern,democrat,235813,25,MA
+"MA, 3",2014,Massachusetts,3,139104,Niki Tsongas,democrat,230789,25,MA
+"MA, 4",2014,Massachusetts,4,184158,Joseph P. Kennedy III,democrat,255297,25,MA
+"MA, 5",2014,Massachusetts,5,182100,Katherine M. Clark,democrat,256486,25,MA
+"MA, 6",2014,Massachusetts,6,149638,Seth W. Moulton,democrat,278919,25,MA
+"MA, 7",2014,Massachusetts,7,142133,Michael E. Capuano,democrat,176077,25,MA
+"MA, 8",2014,Massachusetts,8,200644,Stephen F. Lynch,democrat,261781,25,MA
+"MA, 9",2014,Massachusetts,9,140413,William R. Keating,democrat,264552,25,MA
+"MD, 1",2014,Maryland,1,176342,Andy Harris,republican,250418,24,MD
+"MD, 2",2014,Maryland,2,120412,C. A. Dutch Ruppersberger,democrat,196354,24,MD
+"MD, 3",2014,Maryland,3,128594,John P. Sarbanes,democrat,215946,24,MD
+"MD, 4",2014,Maryland,4,134628,Donna F. Edwards,democrat,191837,24,MD
+"MD, 5",2014,Maryland,5,144725,Steny H. Hoyer,democrat,226040,24,MD
+"MD, 6",2014,Maryland,6,94704,John K. Delaney,democrat,190536,24,MD
+"MD, 7",2014,Maryland,7,144639,Elijah E. Cummings,democrat,206809,24,MD
+"MD, 8",2014,Maryland,8,136722,Chris Van Hollen,democrat,225097,24,MD
+"ME, 1",2014,Maine,1,186674,Chellie Pingree,democrat,321987,23,ME
+"ME, 2",2014,Maine,2,133320,Bruce Poliquin,republican,295009,23,ME
+"MI, 1",2014,Michigan,1,130414,Dan Benishek,republican,250131,26,MI
+"MI, 10",2014,Michigan,10,157069,Candice S. Miller,republican,228692,26,MI
+"MI, 11",2014,Michigan,11,140435,Dave Trott,republican,251238,26,MI
+"MI, 12",2014,Michigan,12,134346,Debbie Dingell,democrat,206660,26,MI
+"MI, 13",2014,Michigan,13,132710,John Conyers Jr.,democrat,166947,26,MI
+"MI, 14",2014,Michigan,14,165272,Brenda Lawrence,democrat,212468,26,MI
+"MI, 2",2014,Michigan,2,135568,Bill Huizenga,republican,213072,26,MI
+"MI, 3",2014,Michigan,3,125754,Justin Amash,republican,217165,26,MI
+"MI, 4",2014,Michigan,4,123962,John Moolenaar,republican,219423,26,MI
+"MI, 5",2014,Michigan,5,148182,Daniel T. Kildee,democrat,222138,26,MI
+"MI, 6",2014,Michigan,6,116801,Fred Upton,republican,208976,26,MI
+"MI, 7",2014,Michigan,7,119564,Tim Walberg,republican,223685,26,MI
+"MI, 8",2014,Michigan,8,132739,Mike Bishop,republican,243125,26,MI
+"MI, 9",2014,Michigan,9,136342,Sander M. Levin,democrat,225757,26,MI
+"MN, 1",2014,Minnesota,1,122851,Timothy J. Walz,democrat,226695,27,MN
+"MN, 2",2014,Minnesota,2,137778,John Kline,republican,245848,27,MN
+"MN, 3",2014,Minnesota,3,167515,Erik Paulsen,republican,269585,27,MN
+"MN, 4",2014,Minnesota,4,147857,Betty McCollum,democrat,241637,27,MN
+"MN, 5",2014,Minnesota,5,167079,Keith Ellison,democrat,236010,27,MN
+"MN, 6",2014,Minnesota,6,133328,Tom Emmer,republican,236846,27,MN
+"MN, 7",2014,Minnesota,7,130546,Collin C. Peterson,democrat,240835,27,MN
+"MN, 8",2014,Minnesota,8,129090,Richard M. Nolan,democrat,266083,27,MN
+"MO, 1",2014,Missouri,1,119315,Wm. Lacy Clay,democrat,163494,29,MO
+"MO, 2",2014,Missouri,2,148191,Ann Wagner,republican,231117,29,MO
+"MO, 3",2014,Missouri,3,130940,Blaine Luetkemeyer,republican,191620,29,MO
+"MO, 4",2014,Missouri,4,120014,Vicky Hartzler,republican,176286,29,MO
+"MO, 5",2014,Missouri,5,79256,Emanuel Cleaver,democrat,153635,29,MO
+"MO, 6",2014,Missouri,6,124616,Sam Graves,republican,186970,29,MO
+"MO, 7",2014,Missouri,7,104054,Billy Long,republican,163957,29,MO
+"MO, 8",2014,Missouri,8,106124,Jason T. Smith,republican,159224,29,MO
+"MS, 1",2014,Mississippi,1,102622,Alan Nunnelee,republican,151111,28,MS
+"MS, 2",2014,Mississippi,2,100688,Bennie G. Thompson,democrat,148646,28,MS
+"MS, 3",2014,Mississippi,3,117771,Gregg Harper,republican,170946,28,MS
+"MS, 4",2014,Mississippi,4,108776,Steven M. Palazzo,republican,155576,28,MS
+"MT, 0",2014,Montana,0,203871,Ryan Zinke,republican,367963,30,MT
+"NC, 1",2014,North Carolina,1,154333,G. K. Butterfield,democrat,210323,37,NC
+"NC, 10",2014,North Carolina,10,133504,Patrick T. McHenry,republican,218796,37,NC
+"NC, 11",2014,North Carolina,11,144682,Mark Meadows,republican,230024,37,NC
+"NC, 12",2014,North Carolina,12,130096,Alma Adams,democrat,172664,37,NC
+"NC, 13",2014,North Carolina,13,153991,George Holding,republican,268709,37,NC
+"NC, 2",2014,North Carolina,2,122128,Renee L. Ellmers,republican,207607,37,NC
+"NC, 3",2014,North Carolina,3,139415,Walter B. Jones,republican,205597,37,NC
+"NC, 4",2014,North Carolina,4,169946,David E. Price,democrat,227362,37,NC
+"NC, 5",2014,North Carolina,5,139279,Virginia Foxx,republican,228252,37,NC
+"NC, 6",2014,North Carolina,6,147312,Mark Walker,republican,251070,37,NC
+"NC, 7",2014,North Carolina,7,134431,David Rouzer,republican,226504,37,NC
+"NC, 8",2014,North Carolina,8,121568,Richard Hudson,republican,187422,37,NC
+"NC, 9",2014,North Carolina,9,163080,Robert Pittenger,republican,173668,37,NC
+"ND, 0",2014,North Dakota,0,138100,Kevin Cramer,republican,248670,38,ND
+"NE, 1",2014,Nebraska,1,123219,Jeff Fortenberry,republican,179057,31,NE
+"NE, 2",2014,Nebraska,2,83872,Brad Ashford,democrat,171509,31,NE
+"NE, 3",2014,Nebraska,3,139440,Adrian Smith,republican,184964,31,NE
+"NH, 1",2014,New Hampshire,1,125508,Frank C. Guinta,republican,242736,33,NH
+"NH, 2",2014,New Hampshire,2,130700,Ann M. Kuster,democrat,238184,33,NH
+"NJ, 1",2014,New Jersey,1,93315,Donald W. Norcross,democrat,162492,34,NJ
+"NJ, 10",2014,New Jersey,10,95734,Donald M. Payne Jr.,democrat,112123,34,NJ
+"NJ, 11",2014,New Jersey,11,109455,Rodney P. Frelinghuysen,republican,174932,34,NJ
+"NJ, 12",2014,New Jersey,12,90430,Bonnie Watson,democrat,148366,34,NJ
+"NJ, 2",2014,New Jersey,2,108875,Frank A. LoBiondo,republican,177148,34,NJ
+"NJ, 3",2014,New Jersey,3,100471,Tom MacArthur,republican,186103,34,NJ
+"NJ, 4",2014,New Jersey,4,118826,Christopher H. Smith,republican,174849,34,NJ
+"NJ, 5",2014,New Jersey,5,104678,Scott Garrett,republican,188921,34,NJ
+"NJ, 6",2014,New Jersey,6,72190,Frank Pallone Jr.,democrat,120457,34,NJ
+"NJ, 7",2014,New Jersey,7,104287,Leonard Lance,republican,175997,34,NJ
+"NJ, 8",2014,New Jersey,8,61510,Albio Sires,democrat,79518,34,NJ
+"NJ, 9",2014,New Jersey,9,82498,Bill Pascrell,democrat,120459,34,NJ
+"NM, 1",2014,New Mexico,1,105474,Michelle Lujan Grisham,democrat,180032,35,NM
+"NM, 2",2014,New Mexico,2,95209,Steven Pearce,republican,147777,35,NM
+"NM, 3",2014,New Mexico,3,113249,Ben Ray Luj_n,democrat,184076,35,NM
+"NV, 1",2014,Nevada,1,45643,Dina Titus,democrat,80299,32,NV
+"NV, 2",2014,Nevada,2,122402,Mark E. Amodei,republican,186210,32,NV
+"NV, 3",2014,Nevada,3,88528,Joseph J. Heck,republican,145719,32,NV
+"NV, 4",2014,Nevada,4,63466,Cresent Hardy,republican,130781,32,NV
+"NY, 1",2014,New York,1,77062,Lee M. Zeldin,republican,176719,36,NY
+"NY, 10",2014,New York,10,73945,Jerrold Nadler,democrat,113226,36,NY
+"NY, 11",2014,New York,11,48291,Michael G. Grimm,republican,110999,36,NY
+"NY, 12",2014,New York,12,78440,Carolyn B. Maloney,democrat,117420,36,NY
+"NY, 13",2014,New York,13,63437,Charles B. Rangel,democrat,91834,36,NY
+"NY, 14",2014,New York,14,45370,Joseph Crowley,democrat,67372,36,NY
+"NY, 15",2014,New York,15,53128,Jos_ E. Serrano,democrat,61268,36,NY
+"NY, 16",2014,New York,16,90088,Eliot L. Engel,democrat,138655,36,NY
+"NY, 17",2014,New York,17,89295,Nita M. Lowey,democrat,181674,36,NY
+"NY, 18",2014,New York,18,76235,Sean Patrick Maloney,democrat,186715,36,NY
+"NY, 19",2014,New York,19,102118,Christopher P. Gibson,republican,210351,36,NY
+"NY, 2",2014,New York,2,76659,Peter T. King,republican,146617,36,NY
+"NY, 20",2014,New York,20,103437,Paul Tonko,democrat,211965,36,NY
+"NY, 21",2014,New York,21,79615,Elise M. Stefanik,republican,181558,36,NY
+"NY, 22",2014,New York,22,113574,Richard L. Hanna,republican,175372,36,NY
+"NY, 23",2014,New York,23,94375,Tom Reed,republican,190554,36,NY
+"NY, 24",2014,New York,24,93881,John M. Katko,republican,203417,36,NY
+"NY, 25",2014,New York,25,87264,Louise McIntosh Slaughter,democrat,196516,36,NY
+"NY, 26",2014,New York,26,100648,Brian Higgins,democrat,173911,36,NY
+"NY, 27",2014,New York,27,109171,Chris Collins,republican,215147,36,NY
+"NY, 3",2014,New York,3,80393,Steve Israel,democrat,171163,36,NY
+"NY, 4",2014,New York,4,83772,Kathleen M. Rice,democrat,175305,36,NY
+"NY, 5",2014,New York,5,75712,Gregory W. Meeks,democrat,94400,36,NY
+"NY, 6",2014,New York,6,49227,Grace Meng,democrat,77306,36,NY
+"NY, 7",2014,New York,7,47142,Nydia M. Vel神__zquez,democrat,68522,36,NY
+"NY, 8",2014,New York,8,70469,Hakeem S. Jeffries,democrat,95113,36,NY
+"NY, 9",2014,New York,9,70997,Yvette D. Clarke,democrat,101606,36,NY
+"OH, 1",2014,Ohio,1,124779,Steve Chabot,republican,197383,39,OH
+"OH, 10",2014,Ohio,10,130752,Michael R. Turner,republican,200606,39,OH
+"OH, 11",2014,Ohio,11,137105,Marcia L. Fudge,democrat,172566,39,OH
+"OH, 12",2014,Ohio,12,150573,Patrick J. Tiberi,republican,221081,39,OH
+"OH, 13",2014,Ohio,13,120230,Tim Ryan,democrat,175549,39,OH
+"OH, 14",2014,Ohio,14,135736,David P. Joyce,republican,214580,39,OH
+"OH, 15",2014,Ohio,15,128496,Steve Stivers,republican,194621,39,OH
+"OH, 16",2014,Ohio,16,132176,James B. Renacci,republican,207375,39,OH
+"OH, 2",2014,Ohio,2,132658,Brad R. Wenstrup,republican,201111,39,OH
+"OH, 3",2014,Ohio,3,91769,Joyce Beatty,democrat,143261,39,OH
+"OH, 4",2014,Ohio,4,125907,Jim Jordan,republican,186072,39,OH
+"OH, 5",2014,Ohio,5,134449,Robert E. Latta,republican,202300,39,OH
+"OH, 6",2014,Ohio,6,111026,Bill Johnson,republican,190652,39,OH
+"OH, 7",2014,Ohio,7,143959,Bob Gibbs,republican,143959,39,OH
+"OH, 8",2014,Ohio,8,126539,John A. Boehner,republican,188330,39,OH
+"OH, 9",2014,Ohio,9,108870,Marcy Kaptur,democrat,160715,39,OH
+"OK, 1",2014,Oklahoma,1,1,Jim Bridenstine,republican,1,40,OK
+"OK, 2",2014,Oklahoma,2,110925,Markwayne Mullin,republican,158407,40,OK
+"OK, 3",2014,Oklahoma,3,133335,Frank D. Lucas,republican,169605,40,OK
+"OK, 4",2014,Oklahoma,4,117721,Tom Cole,republican,166268,40,OK
+"OK, 5",2014,Oklahoma,5,95632,Steve Russell,republican,159133,40,OK
+"OR, 1",2014,Oregon,1,160038,Suzanne Bonamici,democrat,279253,41,OR
+"OR, 2",2014,Oregon,2,202374,Greg Walden,republican,287425,41,OR
+"OR, 3",2014,Oregon,3,211748,Earl Blumenauer,democrat,292757,41,OR
+"OR, 4",2014,Oregon,4,181624,Peter A. DeFazio,democrat,310179,41,OR
+"OR, 5",2014,Oregon,5,150944,Kurt Schrader,democrat,281088,41,OR
+"PA, 1",2014,Pennsylvania,1,131248,Robert A. Brady,democrat,158441,42,PA
+"PA, 10",2014,Pennsylvania,10,112851,Tom Marino,republican,180322,42,PA
+"PA, 11",2014,Pennsylvania,11,122464,Lou Barletta,republican,184692,42,PA
+"PA, 12",2014,Pennsylvania,12,127993,Keith J. Rothfus,republican,215921,42,PA
+"PA, 13",2014,Pennsylvania,13,123601,Brendan F. Boyle,democrat,184150,42,PA
+"PA, 14",2014,Pennsylvania,14,148351,Michael F. Doyle,democrat,148351,42,PA
+"PA, 15",2014,Pennsylvania,15,128285,Charles W. Dent,republican,128285,42,PA
+"PA, 16",2014,Pennsylvania,16,101722,Joseph R. Pitts,republican,176235,42,PA
+"PA, 17",2014,Pennsylvania,17,93680,Matt Cartwright,democrat,165051,42,PA
+"PA, 18",2014,Pennsylvania,18,166076,Tim Murphy,republican,166076,42,PA
+"PA, 2",2014,Pennsylvania,2,181141,Chaka Fattah,democrat,206538,42,PA
+"PA, 3",2014,Pennsylvania,3,113859,Mike Kelly,republican,187790,42,PA
+"PA, 4",2014,Pennsylvania,4,147090,Scott Perry,republican,197340,42,PA
+"PA, 5",2014,Pennsylvania,5,115018,Glenn Thompson,republican,180857,42,PA
+"PA, 6",2014,Pennsylvania,6,119643,Ryan Costello,republican,212544,42,PA
+"PA, 7",2014,Pennsylvania,7,145869,Patrick Meehan,republican,235125,42,PA
+"PA, 8",2014,Pennsylvania,8,137731,Michael G. Fitzpatrick,republican,222498,42,PA
+"PA, 9",2014,Pennsylvania,9,110094,Bill Shuster,republican,173317,42,PA
+"RI, 1",2014,Rhode Island,1,87060,David N. Cicilline,democrat,146353,44,RI
+"RI, 2",2014,Rhode Island,2,105716,James R. Langevin,democrat,169904,44,RI
+"SC, 1",2014,South Carolina,1,119392,Mark Sanford,republican,127815,45,SC
+"SC, 2",2014,South Carolina,2,121649,Joe Wilson,republican,194808,45,SC
+"SC, 3",2014,South Carolina,3,116741,Jeff Duncan,republican,164009,45,SC
+"SC, 4",2014,South Carolina,4,126452,Trey Gowdy,republican,149049,45,SC
+"SC, 5",2014,South Carolina,5,103078,Mick Mulvaney,republican,175145,45,SC
+"SC, 6",2014,South Carolina,6,125747,James E. Clyburn,democrat,173432,45,SC
+"SC, 7",2014,South Carolina,7,102833,Tom Rice,republican,171524,45,SC
+"SD, 0",2014,South Dakota,0,183834,Kristi L. Noem,republican,276319,46,SD
+"TN, 1",2014,Tennessee,1,115533,David P. Roe,republican,139470,47,TN
+"TN, 2",2014,Tennessee,2,120883,John J. Duncan Jr.,republican,166751,47,TN
+"TN, 3",2014,Tennessee,3,97344,"Charles J. """"Chuck"""" Fleischmann",republican,156097,47,TN
+"TN, 4",2014,Tennessee,4,84815,Scott Des Jarlais,republican,145418,47,TN
+"TN, 5",2014,Tennessee,5,96148,Jim Cooper,democrat,154276,47,TN
+"TN, 6",2014,Tennessee,6,115231,Diane Black,republican,162097,47,TN
+"TN, 7",2014,Tennessee,7,110534,Marsha Blackburn,republican,157907,47,TN
+"TN, 8",2014,Tennessee,8,122255,Stephen Lee Fincher,republican,172595,47,TN
+"TN, 9",2014,Tennessee,9,87376,Steve Cohen,democrat,116550,47,TN
+"TX, 1",2014,Texas,1,115084,Louie Gohmert,republican,148560,48,TX
+"TX, 10",2014,Texas,10,109726,Michael T. McCaul,republican,176460,48,TX
+"TX, 11",2014,Texas,11,107939,K. Michael Conaway,republican,119574,48,TX
+"TX, 12",2014,Texas,12,113186,Kay Granger,republican,158730,48,TX
+"TX, 13",2014,Texas,13,110842,Mac Thornberry,republican,131451,48,TX
+"TX, 14",2014,Texas,14,90116,Randy K. Weber Sr.,republican,145698,48,TX
+"TX, 15",2014,Texas,15,48708,Rub_n Hinojosa,democrat,90184,48,TX
+"TX, 16",2014,Texas,16,49338,Beto O'Rourke,democrat,73105,48,TX
+"TX, 17",2014,Texas,17,85807,Bill Flores,republican,132865,48,TX
+"TX, 18",2014,Texas,18,76097,Sheila Jackson Lee,democrat,106010,48,TX
+"TX, 19",2014,Texas,19,90160,Randy Neugebauer,republican,116818,48,TX
+"TX, 2",2014,Texas,2,101936,Ted Poe,republican,150026,48,TX
+"TX, 20",2014,Texas,20,66554,Joaquin Castro,democrat,87964,48,TX
+"TX, 21",2014,Texas,21,135660,Lamar Smith,republican,188996,48,TX
+"TX, 22",2014,Texas,22,100861,Pete Olson,republican,151566,48,TX
+"TX, 23",2014,Texas,23,57459,Will Hurd,republican,115429,48,TX
+"TX, 24",2014,Texas,24,93712,Kenny Marchant,republican,144073,48,TX
+"TX, 25",2014,Texas,25,107120,Roger Williams,republican,177883,48,TX
+"TX, 26",2014,Texas,26,116944,Michael C. Burgess,republican,141470,48,TX
+"TX, 27",2014,Texas,27,83342,Blake Farenthold,republican,131047,48,TX
+"TX, 28",2014,Texas,28,62508,Henry Cuellar,democrat,76136,48,TX
+"TX, 29",2014,Texas,29,41321,Gene Green,democrat,46143,48,TX
+"TX, 3",2014,Texas,3,113404,Sam Johnson,republican,138280,48,TX
+"TX, 30",2014,Texas,30,93041,Eddie Bernice Johnson,democrat,105793,48,TX
+"TX, 31",2014,Texas,31,91607,John R. Carter,republican,143028,48,TX
+"TX, 32",2014,Texas,32,96495,Pete Sessions,republican,156096,48,TX
+"TX, 33",2014,Texas,33,43769,Marc A. Veasey,democrat,50592,48,TX
+"TX, 34",2014,Texas,34,47503,Filemon Vela,democrat,79877,48,TX
+"TX, 35",2014,Texas,35,60124,Lloyd Doggett,democrat,96225,48,TX
+"TX, 36",2014,Texas,36,101663,Brian Babin,republican,133842,48,TX
+"TX, 4",2014,Texas,4,115085,John Ratcliffe,republican,115085,48,TX
+"TX, 5",2014,Texas,5,88998,Jeb Hensarling,republican,104262,48,TX
+"TX, 6",2014,Texas,6,92334,Joe Barton,republican,150996,48,TX
+"TX, 7",2014,Texas,7,90606,John Abney Culberson,republican,143219,48,TX
+"TX, 8",2014,Texas,8,125066,Kevin Brady,republican,140013,48,TX
+"TX, 9",2014,Texas,9,78109,Al Green,democrat,86003,48,TX
+"UT, 1",2014,Utah,1,84231,Rob Bishop,republican,130034,49,UT
+"UT, 2",2014,Utah,2,88915,Chris Stewart,republican,146188,49,UT
+"UT, 3",2014,Utah,3,102952,Jason Chaffetz,republican,142580,49,UT
+"UT, 4",2014,Utah,4,74936,Mia B. Love,republican,147168,49,UT
+"VA, 1",2014,Virginia,1,131861,Robert J. Wittman,republican,209621,51,VA
+"VA, 10",2014,Virginia,10,125914,Barbara J. Comstock,republican,222910,51,VA
+"VA, 11",2014,Virginia,11,106780,Gerald E. Connolly,democrat,187805,51,VA
+"VA, 2",2014,Virginia,2,101558,E. Scott Rigell,republican,173060,51,VA
+"VA, 3",2014,Virginia,3,139197,"Robert C. """"Bobby"""" Scott",democrat,147402,51,VA
+"VA, 4",2014,Virginia,4,120684,J. Randy Forbes,republican,200638,51,VA
+"VA, 5",2014,Virginia,5,124735,Robert Hurt,republican,204945,51,VA
+"VA, 6",2014,Virginia,6,133898,Bob Goodlatte,republican,179708,51,VA
+"VA, 7",2014,Virginia,7,148026,David A. Brat,republican,243351,51,VA
+"VA, 8",2014,Virginia,8,128102,Donald S. Beyer Jr.,democrat,203076,51,VA
+"VA, 9",2014,Virginia,9,117465,H. Morgan Griffith,republican,162815,51,VA
+"VT, 0",2014,Vermont,0,123349,Peter Welch,democrat,191504,50,VT
+"WA, 1",2014,Washington,1,124151,Suzan K. DelBene,democrat,225579,53,WA
+"WA, 10",2014,Washington,10,99279,Denny Heck,democrat,181492,53,WA
+"WA, 2",2014,Washington,2,122173,Rick Larsen,democrat,201691,53,WA
+"WA, 3",2014,Washington,3,124796,Jaime Herrera Beutler,republican,202814,53,WA
+"WA, 4",2014,Washington,4,77772,Dan Newhouse,republican,153079,53,WA
+"WA, 5",2014,Washington,5,135470,Cathy McMorris Rodgers,republican,223242,53,WA
+"WA, 6",2014,Washington,6,141265,Derek Kilmer,democrat,224290,53,WA
+"WA, 7",2014,Washington,7,203954,Jim McDermott,democrat,251875,53,WA
+"WA, 8",2014,Washington,8,125741,David G. Reichert,republican,198744,53,WA
+"WA, 9",2014,Washington,9,118132,Adam Smith,democrat,166794,53,WA
+"WI, 1",2014,Wisconsin,1,182316,Paul Ryan,republican,288170,55,WI
+"WI, 2",2014,Wisconsin,2,224920,Mark Pocan,democrat,328847,55,WI
+"WI, 3",2014,Wisconsin,3,155368,Ron Kind,democrat,275161,55,WI
+"WI, 4",2014,Wisconsin,4,179045,Gwen Moore,democrat,254892,55,WI
+"WI, 5",2014,Wisconsin,5,231160,F. James Sensenbrenner Jr.,republican,332826,55,WI
+"WI, 6",2014,Wisconsin,6,169767,Glenn Grothman,republican,299033,55,WI
+"WI, 7",2014,Wisconsin,7,169891,Sean P. Duffy,republican,286603,55,WI
+"WI, 8",2014,Wisconsin,8,188553,Reid J. Ribble,republican,290048,55,WI
+"WV, 1",2014,West Virginia,1,92491,David B. McKinley,republican,144737,54,WV
+"WV, 2",2014,West Virginia,2,72619,Alex X. Mooney,republican,154250,54,WV
+"WV, 3",2014,West Virginia,3,77713,Evan Jenkins,republican,140401,54,WV
+"WY, 0",2014,Wyoming,0,113038,Cynthia M. Lummis,republican,171153,56,WY

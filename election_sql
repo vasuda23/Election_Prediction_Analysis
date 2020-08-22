@@ -1,0 +1,25 @@
+drop table combined_presidential_table ;
+drop table house_elections_table ;
+create table combined_presidential_table (
+"State" varchar,
+"count" int,
+"unique" int,
+"top" text,
+"frequency" int,
+"year" int
+);
+
+create table house_elections_table (
+"state_district" varchar,
+"year" int,
+"state" text,
+"district" int,
+"candidate_votes" int,
+"candidate" text,
+"party" text,
+"total_votes" int,
+"state_po" text
+);
+
+select * from combined_presidential_table ;
+select * from house_elections_table ;

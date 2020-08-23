@@ -1,153 +1,153 @@
-year,state,stage,special,candidate,party,candidatevotes,totalvotes
-2018,Arizona,gen,False,Martha McSally,republican,1135200,2384308
-2018,Arizona,gen,False,Kyrsten Sinema,democrat,1191100,2384308
-2018,Arizona,gen,False,Angela Green,green,57442,2384308
-2018,Arizona,gen,False,,,566,2384308
-2018,California,gen,False,Dianne Feinstein,democrat,6019422,11113364
-2018,California,gen,False,Kevin De Leon,democrat,5093942,11113364
-2018,Connecticut,gen,False,Christopher S Murphy,democrat,787685,1386840
-2018,Connecticut,gen,False,Matthew Corey,republican,545717,1386840
-2018,Connecticut,gen,False,Christopher S Murphy,working families,37894,1386840
-2018,Connecticut,gen,False,Richard Lion,libertarian,8838,1386840
-2018,Connecticut,gen,False,Jeff Russell,green,6618,1386840
-2018,Connecticut,gen,False,,,88,1386840
-2018,Delaware,gen,False,Thomas R Carper,democrat,217385,362592
-2018,Delaware,gen,False,Robert B Arlett,republican,137127,362592
-2018,Delaware,gen,False,Demitri G Theodoropoulos,green,4170,362592
-2018,Delaware,gen,False,Nadine M Frost,libertarian,3910,362592
-2018,Florida,gen,False,Rick Scott,republican,4099505,8190005
-2018,Florida,gen,False,Bill Nelson,democrat,4089472,8190005
-2018,Florida,gen,False,,,1028,8190005
-2018,Hawaii,gen,False,Mazie K. Hirono,democrat,276316,388351
-2018,Hawaii,gen,False,Ron Curtis,republican,112035,388351
-2018,Indiana,gen,False,Mike Braun,republican,1158000,2282565
-2018,Indiana,gen,False,Joe Donnelly,democrat,1023553,2282565
-2018,Indiana,gen,False,Lucy M. Brenton,libertarian,100942,2282565
-2018,Indiana,gen,False,,,70,2282565
-2018,Maine,gen,False,Eric L. Brakey,republican,223502,634409
-2018,Maine,gen,False,"Angus S. King, Jr.",independent,344575,634409
-2018,Maine,gen,False,Zak Ringelstein,democrat,66268,634409
-2018,Maine,gen,False,Others,,64,634409
-2018,Maryland,gen,False,Tony Campbell,republican,697017,2299889
-2018,Maryland,gen,False,Ben Cardin,democrat,1491614,2299889
-2018,Maryland,gen,False,Arvin Vohra,libertarian,22943,2299889
-2018,Maryland,gen,False,Neal Simon,unaffiliated,85964,2299889
-2018,Maryland,gen,False,,,2351,2299889
-2018,Massachusetts,gen,False,Elizabeth A. Warren,democrat,1633371,2707090
-2018,Massachusetts,gen,False,Geoff Diehl,republican,979210,2707090
-2018,Massachusetts,gen,False,Shiva Ayyadurai,unenrolled,91710,2707090
-2018,Massachusetts,gen,False,Others,,2799,2707090
-2018,Michigan,gen,False,John James,republican,1938818,4237271
-2018,Michigan,gen,False,Debbie Stabenow,democrat,2214478,4237271
-2018,Michigan,gen,False,George E. Huffman III,us taxpayers,27251,4237271
-2018,Michigan,gen,False,Marcia Squier,green,40204,4237271
-2018,Michigan,gen,False,John Howard Wilhelm,natural law,16502,4237271
-2018,Michigan,gen,False,,,18,4237271
-2018,Minnesota,gen,False,Jim Newberger,republican,940437,5184235
-2018,Minnesota,gen,False,Amy Klobuchar,democratic-farmer-labor,1566174,5184235
-2018,Minnesota,gen,False,Dennis Schuller,legal marijuana now,66236,5184235
-2018,Minnesota,gen,False,Paula M Overby,minnesota green,23101,5184235
-2018,Minnesota,gen,False,,,931,5184235
-2018,Minnesota,gen,True,Karin Housley,republican,1095777,5184235
-2018,Minnesota,gen,True,Tina Smith,democratic-farmer-labor,1370540,5184235
-2018,Minnesota,gen,True,Sarah Wellington,legal marijuana now,95614,5184235
-2018,Minnesota,gen,True,Jerry Trooien,unaffiliated,24324,5184235
-2018,Minnesota,gen,True,,,1101,5184235
-2018,Mississippi,gen,False,David Baria,democrat,369567,1843803
-2018,Mississippi,gen,False,Roger F. Wicker,republican,547619,1843803
-2018,Mississippi,gen,False,Danny Bedwell,libertarian,12981,1843803
-2018,Mississippi,gen,False,Shawn O'Hara,reform,6048,1843803
-2018,Mississippi,gen,True,Cindy Hyde-Smith,republican,486769,1843803
-2018,Mississippi,gen,True,Mike Espy,democrat,420819,1843803
-2018,Missouri,gen,False,Josh Hawley,republican,1254927,2442289
-2018,Missouri,gen,False,Claire McCaskill,democrat,1112935,2442289
-2018,Missouri,gen,False,Japheth Campbell,libertarian,27316,2442289
-2018,Missouri,gen,False,Jo Crain,green,12706,2442289
-2018,Missouri,gen,False,Craig O'Dear,independent,34398,2442289
-2018,Missouri,gen,False,,,7,2442289
-2018,Montana,gen,False,Jon Tester,democrat,253876,504384
-2018,Montana,gen,False,Rick Breckenridge,libertarian,14545,504384
-2018,Montana,gen,False,Matt Rosendale,republican,235963,504384
-2018,Nebraska,gen,False,Deb Fischer,republican,403151,698883
-2018,Nebraska,gen,False,Jane Raybould,democrat,269917,698883
-2018,Nebraska,gen,False,Jim Schultz,libertarian,25349,698883
-2018,Nebraska,gen,False,,,466,698883
-2018,Nevada,gen,False,Jacky Rosen,democrat,490071,972132
-2018,Nevada,gen,False,Dean Heller,republican,441202,972132
-2018,Nevada,gen,False,None of these Candidates,,15303,972132
-2018,Nevada,gen,False,Barry Michaels,independent,9269,972132
-2018,Nevada,gen,False,Tim Hagan,libertarian,9196,972132
-2018,Nevada,gen,False,Kamau A. Bakari,independent american,7091,972132
-2018,New Jersey,gen,False,Robert Menendez,democrat,1711654,3169310
-2018,New Jersey,gen,False,Bob Hugin,republican,1357355,3169310
-2018,New Jersey,gen,False,Madelyn R. Hoffman,green,25150,3169310
-2018,New Jersey,gen,False,Murray Sabrin,libertarian,21212,3169310
-2018,New Jersey,gen,False,Natalie Lynn Rivera,for the people,19897,3169310
-2018,New Jersey,gen,False,Tricia Flanagan,new day nj,16101,3169310
-2018,New Jersey,gen,False,Kevin Kimple,make it simple,9087,3169310
-2018,New Jersey,gen,False,Hank Schroeder,economic growth,8854,3169310
-2018,New Mexico,gen,False,Martin T Heinrich,democrat,376998,697012
-2018,New Mexico,gen,False,Gary E Johnson,libertarian,107201,697012
-2018,New Mexico,gen,False,Mick Rich,republican,212813,697012
-2018,New York,gen,False,Kirsten E. Gillibrand,democrat,3755489,6055151
-2018,New York,gen,False,Chele Chiavacci Farley,republican,1730439,6055151
-2018,New York,gen,False,Chele Chiavacci Farley,conservative,246171,6055151
-2018,New York,gen,False,Kirsten E. Gillibrand,working families,160128,6055151
-2018,New York,gen,False,Kirsten E. Gillibrand,independence,99325,6055151
-2018,New York,gen,False,Kirsten E. Gillibrand,women's equality,41989,6055151
-2018,New York,gen,False,Chele Chiavacci Farley,reform,21610,6055151
-2018,North Dakota,gen,False,Kevin Cramer,republican,179720,326138
-2018,North Dakota,gen,False,Heidi Heitkamp,democratic-npl,144376,326138
-2018,North Dakota,gen,False,,,2042,326138
-2018,Ohio,gen,False,Sherrod Brown,democrat,2355923,4410898
-2018,Ohio,gen,False,,,1012,4410898
-2018,Ohio,gen,False,Jim Renacci,republican,2053963,4410898
-2018,Pennsylvania,gen,False,Robert P Casey Jr,democrat,2777680,4994643
-2018,Pennsylvania,gen,False,Louis J. Barletta,republican,2134848,4994643
-2018,Pennsylvania,gen,False,Neal Taylor Gale,green,31208,4994643
-2018,Pennsylvania,gen,False,Dale R Kerns Jr,libertarian,50907,4994643
-2018,Rhode Island,gen,False,Sheldon Whitehouse,democrat,231477,376738
-2018,Rhode Island,gen,False,"Robert G. Flanders, Jr.",republican,144421,376738
-2018,Rhode Island,gen,False,,,840,376738
-2018,Tennessee,gen,False,Marsha Blackburn,republican,1227483,2243740
-2018,Tennessee,gen,False,Phil Bredesen,democrat,985450,2243740
-2018,Tennessee,gen,False,Trudy A. Austin,independent,9455,2243740
-2018,Tennessee,gen,False,John Carico,independent,3398,2243740
-2018,Tennessee,gen,False,Dean Hill,independent,8717,2243740
-2018,Tennessee,gen,False,Kevin Lee McCants,independent,1927,2243740
-2018,Tennessee,gen,False,Breton Phillips,independent,2226,2243740
-2018,Tennessee,gen,False,Kris L. Todd,independent,5084,2243740
-2018,Texas,gen,False,Ted Cruz,republican,4260553,8371655
-2018,Texas,gen,False,Beto O'Rourke,democrat,4045632,8371655
-2018,Texas,gen,False,Neal M. Dikeman,libertarian,65470,8371655
-2018,Utah,gen,False,Mitt Romney,republican,665215,1062845
-2018,Utah,gen,False,Jenny Wilson,democrat,328541,1062845
-2018,Utah,gen,False,Tim Aalders,constitution,28774,1062845
-2018,Utah,gen,False,Craig R. Bowden,libertarian,27607,1062845
-2018,Utah,gen,False,Reed C. McCandless,independent american,12708,1062845
-2018,Vermont,gen,False,Folasade Adeluola,independent,1979,272624
-2018,Vermont,gen,False,Russell Beste,independent,2763,272624
-2018,Vermont,gen,False,Bruce Busa,independent,914,272624
-2018,Vermont,gen,False,Edward S. Gilbert Jr,independent,2244,272624
-2018,Vermont,gen,False,Reid Kane,liberty union,1171,272624
-2018,Vermont,gen,False,Brad J. Peacock,independent,3787,272624
-2018,Vermont,gen,False,Bernie Sanders,independent,183529,272624
-2018,Vermont,gen,False,Jon Svitavsky,independent,1280,272624
-2018,Vermont,gen,False,Lawrence Zupan,republican,74663,272624
-2018,Vermont,gen,False,,,294,272624
-2018,Virginia,gen,False,Corey A. Stewart,republican,1374313,3351373
-2018,Virginia,gen,False,Timothy M. Kaine,democrat,1910370,3351373
-2018,Virginia,gen,False,Matt J. Waters,libertarian,61565,3351373
-2018,Virginia,gen,False,,,5125,3351373
-2018,Washington,gen,False,Maria Cantwell,democrat,1803364,3086168
-2018,Washington,gen,False,Susan Hutchison,republican,1282804,3086168
-2018,West Virginia,gen,False,Joe Manchin,democrat,288808,582911
-2018,West Virginia,gen,False,Patrick Morrisey,republican,269872,582911
-2018,West Virginia,gen,False,Rusty Hollen,libertarian,24231,582911
-2018,Wisconsin,gen,False,Tammy Baldwin,democrat,1472914,2657841
-2018,Wisconsin,gen,False,Leah Vukmir,republican,1184885,2657841
-2018,Wisconsin,gen,False,,,42,2657841
-2018,Wyoming,gen,False,John Barrasso,republican,136210,203420
-2018,Wyoming,gen,False,Gary Trauner,democrat,61227,203420
-2018,Wyoming,gen,False,Joseph Porambo,libertarian,5658,203420
-2018,Wyoming,gen,False,,,325,203420
+year,state,state_fips,stage,special,candidate,party,candidatevotes,totalvotes
+2018,Arizona,4,gen,False,Martha McSally,republican,1135200,2384308
+2018,Arizona,4,gen,False,Kyrsten Sinema,democrat,1191100,2384308
+2018,Arizona,4,gen,False,Angela Green,green,57442,2384308
+2018,Arizona,4,gen,False,,,566,2384308
+2018,California,6,gen,False,Dianne Feinstein,democrat,6019422,11113364
+2018,California,6,gen,False,Kevin De Leon,democrat,5093942,11113364
+2018,Connecticut,9,gen,False,Christopher S Murphy,democrat,787685,1386840
+2018,Connecticut,9,gen,False,Matthew Corey,republican,545717,1386840
+2018,Connecticut,9,gen,False,Christopher S Murphy,working families,37894,1386840
+2018,Connecticut,9,gen,False,Richard Lion,libertarian,8838,1386840
+2018,Connecticut,9,gen,False,Jeff Russell,green,6618,1386840
+2018,Connecticut,9,gen,False,,,88,1386840
+2018,Delaware,10,gen,False,Thomas R Carper,democrat,217385,362592
+2018,Delaware,10,gen,False,Robert B Arlett,republican,137127,362592
+2018,Delaware,10,gen,False,Demitri G Theodoropoulos,green,4170,362592
+2018,Delaware,10,gen,False,Nadine M Frost,libertarian,3910,362592
+2018,Florida,12,gen,False,Rick Scott,republican,4099505,8190005
+2018,Florida,12,gen,False,Bill Nelson,democrat,4089472,8190005
+2018,Florida,12,gen,False,,,1028,8190005
+2018,Hawaii,15,gen,False,Mazie K. Hirono,democrat,276316,388351
+2018,Hawaii,15,gen,False,Ron Curtis,republican,112035,388351
+2018,Indiana,18,gen,False,Mike Braun,republican,1158000,2282565
+2018,Indiana,18,gen,False,Joe Donnelly,democrat,1023553,2282565
+2018,Indiana,18,gen,False,Lucy M. Brenton,libertarian,100942,2282565
+2018,Indiana,18,gen,False,,,70,2282565
+2018,Maine,23,gen,False,Eric L. Brakey,republican,223502,634409
+2018,Maine,23,gen,False,"Angus S. King, Jr.",independent,344575,634409
+2018,Maine,23,gen,False,Zak Ringelstein,democrat,66268,634409
+2018,Maine,23,gen,False,Others,,64,634409
+2018,Maryland,24,gen,False,Tony Campbell,republican,697017,2299889
+2018,Maryland,24,gen,False,Ben Cardin,democrat,1491614,2299889
+2018,Maryland,24,gen,False,Arvin Vohra,libertarian,22943,2299889
+2018,Maryland,24,gen,False,Neal Simon,unaffiliated,85964,2299889
+2018,Maryland,24,gen,False,,,2351,2299889
+2018,Massachusetts,25,gen,False,Elizabeth A. Warren,democrat,1633371,2707090
+2018,Massachusetts,25,gen,False,Geoff Diehl,republican,979210,2707090
+2018,Massachusetts,25,gen,False,Shiva Ayyadurai,unenrolled,91710,2707090
+2018,Massachusetts,25,gen,False,Others,,2799,2707090
+2018,Michigan,26,gen,False,John James,republican,1938818,4237271
+2018,Michigan,26,gen,False,Debbie Stabenow,democrat,2214478,4237271
+2018,Michigan,26,gen,False,George E. Huffman III,us taxpayers,27251,4237271
+2018,Michigan,26,gen,False,Marcia Squier,green,40204,4237271
+2018,Michigan,26,gen,False,John Howard Wilhelm,natural law,16502,4237271
+2018,Michigan,26,gen,False,,,18,4237271
+2018,Minnesota,27,gen,False,Jim Newberger,republican,940437,5184235
+2018,Minnesota,27,gen,False,Amy Klobuchar,democratic-farmer-labor,1566174,5184235
+2018,Minnesota,27,gen,False,Dennis Schuller,legal marijuana now,66236,5184235
+2018,Minnesota,27,gen,False,Paula M Overby,minnesota green,23101,5184235
+2018,Minnesota,27,gen,False,,,931,5184235
+2018,Minnesota,27,gen,True,Karin Housley,republican,1095777,5184235
+2018,Minnesota,27,gen,True,Tina Smith,democratic-farmer-labor,1370540,5184235
+2018,Minnesota,27,gen,True,Sarah Wellington,legal marijuana now,95614,5184235
+2018,Minnesota,27,gen,True,Jerry Trooien,unaffiliated,24324,5184235
+2018,Minnesota,27,gen,True,,,1101,5184235
+2018,Mississippi,28,gen,False,David Baria,democrat,369567,1843803
+2018,Mississippi,28,gen,False,Roger F. Wicker,republican,547619,1843803
+2018,Mississippi,28,gen,False,Danny Bedwell,libertarian,12981,1843803
+2018,Mississippi,28,gen,False,Shawn O'Hara,reform,6048,1843803
+2018,Mississippi,28,gen,True,Cindy Hyde-Smith,republican,486769,1843803
+2018,Mississippi,28,gen,True,Mike Espy,democrat,420819,1843803
+2018,Missouri,29,gen,False,Josh Hawley,republican,1254927,2442289
+2018,Missouri,29,gen,False,Claire McCaskill,democrat,1112935,2442289
+2018,Missouri,29,gen,False,Japheth Campbell,libertarian,27316,2442289
+2018,Missouri,29,gen,False,Jo Crain,green,12706,2442289
+2018,Missouri,29,gen,False,Craig O'Dear,independent,34398,2442289
+2018,Missouri,29,gen,False,,,7,2442289
+2018,Montana,30,gen,False,Jon Tester,democrat,253876,504384
+2018,Montana,30,gen,False,Rick Breckenridge,libertarian,14545,504384
+2018,Montana,30,gen,False,Matt Rosendale,republican,235963,504384
+2018,Nebraska,31,gen,False,Deb Fischer,republican,403151,698883
+2018,Nebraska,31,gen,False,Jane Raybould,democrat,269917,698883
+2018,Nebraska,31,gen,False,Jim Schultz,libertarian,25349,698883
+2018,Nebraska,31,gen,False,,,466,698883
+2018,Nevada,32,gen,False,Jacky Rosen,democrat,490071,972132
+2018,Nevada,32,gen,False,Dean Heller,republican,441202,972132
+2018,Nevada,32,gen,False,None of these Candidates,,15303,972132
+2018,Nevada,32,gen,False,Barry Michaels,independent,9269,972132
+2018,Nevada,32,gen,False,Tim Hagan,libertarian,9196,972132
+2018,Nevada,32,gen,False,Kamau A. Bakari,independent american,7091,972132
+2018,New Jersey,34,gen,False,Robert Menendez,democrat,1711654,3169310
+2018,New Jersey,34,gen,False,Bob Hugin,republican,1357355,3169310
+2018,New Jersey,34,gen,False,Madelyn R. Hoffman,green,25150,3169310
+2018,New Jersey,34,gen,False,Murray Sabrin,libertarian,21212,3169310
+2018,New Jersey,34,gen,False,Natalie Lynn Rivera,for the people,19897,3169310
+2018,New Jersey,34,gen,False,Tricia Flanagan,new day nj,16101,3169310
+2018,New Jersey,34,gen,False,Kevin Kimple,make it simple,9087,3169310
+2018,New Jersey,34,gen,False,Hank Schroeder,economic growth,8854,3169310
+2018,New Mexico,35,gen,False,Martin T Heinrich,democrat,376998,697012
+2018,New Mexico,35,gen,False,Gary E Johnson,libertarian,107201,697012
+2018,New Mexico,35,gen,False,Mick Rich,republican,212813,697012
+2018,New York,36,gen,False,Kirsten E. Gillibrand,democrat,3755489,6055151
+2018,New York,36,gen,False,Chele Chiavacci Farley,republican,1730439,6055151
+2018,New York,36,gen,False,Chele Chiavacci Farley,conservative,246171,6055151
+2018,New York,36,gen,False,Kirsten E. Gillibrand,working families,160128,6055151
+2018,New York,36,gen,False,Kirsten E. Gillibrand,independence,99325,6055151
+2018,New York,36,gen,False,Kirsten E. Gillibrand,women's equality,41989,6055151
+2018,New York,36,gen,False,Chele Chiavacci Farley,reform,21610,6055151
+2018,North Dakota,38,gen,False,Kevin Cramer,republican,179720,326138
+2018,North Dakota,38,gen,False,Heidi Heitkamp,democratic-npl,144376,326138
+2018,North Dakota,38,gen,False,,,2042,326138
+2018,Ohio,39,gen,False,Sherrod Brown,democrat,2355923,4410898
+2018,Ohio,39,gen,False,,,1012,4410898
+2018,Ohio,39,gen,False,Jim Renacci,republican,2053963,4410898
+2018,Pennsylvania,42,gen,False,Robert P Casey Jr,democrat,2777680,4994643
+2018,Pennsylvania,42,gen,False,Louis J. Barletta,republican,2134848,4994643
+2018,Pennsylvania,42,gen,False,Neal Taylor Gale,green,31208,4994643
+2018,Pennsylvania,42,gen,False,Dale R Kerns Jr,libertarian,50907,4994643
+2018,Rhode Island,44,gen,False,Sheldon Whitehouse,democrat,231477,376738
+2018,Rhode Island,44,gen,False,"Robert G. Flanders, Jr.",republican,144421,376738
+2018,Rhode Island,44,gen,False,,,840,376738
+2018,Tennessee,47,gen,False,Marsha Blackburn,republican,1227483,2243740
+2018,Tennessee,47,gen,False,Phil Bredesen,democrat,985450,2243740
+2018,Tennessee,47,gen,False,Trudy A. Austin,independent,9455,2243740
+2018,Tennessee,47,gen,False,John Carico,independent,3398,2243740
+2018,Tennessee,47,gen,False,Dean Hill,independent,8717,2243740
+2018,Tennessee,47,gen,False,Kevin Lee McCants,independent,1927,2243740
+2018,Tennessee,47,gen,False,Breton Phillips,independent,2226,2243740
+2018,Tennessee,47,gen,False,Kris L. Todd,independent,5084,2243740
+2018,Texas,48,gen,False,Ted Cruz,republican,4260553,8371655
+2018,Texas,48,gen,False,Beto O'Rourke,democrat,4045632,8371655
+2018,Texas,48,gen,False,Neal M. Dikeman,libertarian,65470,8371655
+2018,Utah,49,gen,False,Mitt Romney,republican,665215,1062845
+2018,Utah,49,gen,False,Jenny Wilson,democrat,328541,1062845
+2018,Utah,49,gen,False,Tim Aalders,constitution,28774,1062845
+2018,Utah,49,gen,False,Craig R. Bowden,libertarian,27607,1062845
+2018,Utah,49,gen,False,Reed C. McCandless,independent american,12708,1062845
+2018,Vermont,50,gen,False,Folasade Adeluola,independent,1979,272624
+2018,Vermont,50,gen,False,Russell Beste,independent,2763,272624
+2018,Vermont,50,gen,False,Bruce Busa,independent,914,272624
+2018,Vermont,50,gen,False,Edward S. Gilbert Jr,independent,2244,272624
+2018,Vermont,50,gen,False,Reid Kane,liberty union,1171,272624
+2018,Vermont,50,gen,False,Brad J. Peacock,independent,3787,272624
+2018,Vermont,50,gen,False,Bernie Sanders,independent,183529,272624
+2018,Vermont,50,gen,False,Jon Svitavsky,independent,1280,272624
+2018,Vermont,50,gen,False,Lawrence Zupan,republican,74663,272624
+2018,Vermont,50,gen,False,,,294,272624
+2018,Virginia,51,gen,False,Corey A. Stewart,republican,1374313,3351373
+2018,Virginia,51,gen,False,Timothy M. Kaine,democrat,1910370,3351373
+2018,Virginia,51,gen,False,Matt J. Waters,libertarian,61565,3351373
+2018,Virginia,51,gen,False,,,5125,3351373
+2018,Washington,53,gen,False,Maria Cantwell,democrat,1803364,3086168
+2018,Washington,53,gen,False,Susan Hutchison,republican,1282804,3086168
+2018,West Virginia,54,gen,False,Joe Manchin,democrat,288808,582911
+2018,West Virginia,54,gen,False,Patrick Morrisey,republican,269872,582911
+2018,West Virginia,54,gen,False,Rusty Hollen,libertarian,24231,582911
+2018,Wisconsin,55,gen,False,Tammy Baldwin,democrat,1472914,2657841
+2018,Wisconsin,55,gen,False,Leah Vukmir,republican,1184885,2657841
+2018,Wisconsin,55,gen,False,,,42,2657841
+2018,Wyoming,56,gen,False,John Barrasso,republican,136210,203420
+2018,Wyoming,56,gen,False,Gary Trauner,democrat,61227,203420
+2018,Wyoming,56,gen,False,Joseph Porambo,libertarian,5658,203420
+2018,Wyoming,56,gen,False,,,325,203420

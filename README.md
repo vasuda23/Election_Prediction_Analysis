@@ -18,9 +18,9 @@ https://electionlab.mit.edu/data
 *https://www.kaggle.com/benhamner/2016-us-election?select=primary_results.csv
 
 ROUGH BREAKDOWN OF TASKS :
-Vasuda : Machine Learning, Data Clean Up, Matplotlib
-McKenna : Machine Learning, visualization
-Simar : SQL
-Srinivas: Analysis, visualization
-Akash : Analysis, visualization, Presentation
+Vasuda : Data Cleaning, Machine Learning, Analysis, Visualizations (Presidential State Data)
+McKenna : Data Cleaning, Machine Learning, Analysis, Visualizations (House_Data)
+Simar : SQL, AWS & Local Host
+Srinivas: Data Cleaning, Machine Learning, Analysis, Visualizations (Senate_Data)
+Akash : Presentation
 
